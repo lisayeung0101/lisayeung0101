@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @lisayeung0101
-- 💞️ I’m looking for collaboration on any data science projects for social goods
 - 📫 How to reach me: hyeung@andrew.cmu.edu
 
 <!---
