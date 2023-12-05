@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lisayeung0101
-- 📫 How to reach me: hyeung@andrew.cmu.edu
+- 📫 How to reach me: hyeung@alumni.cmu.edu
 
 <!---
 lisayeung0101/lisayeung0101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
